@@ -1,0 +1,632 @@
+Additive	reinforcing	and
+Additive	reinforcing	or
+Sequential	Timing 	when 
+Consequential	conditional	if
+Additive	reinforcing	also 
+Sequential	Transitionals 	after 
+Clarification	emphasizing	even
+Consequential	causative	because 
+Comparison		as…as
+Additive	reinforcing	much
+Sequential	Transitionals 	before 
+Consequential	resultative	for 
+Consequential	causative	as
+Clarification	corroborative	right
+Sequential	Transitionals 	during 
+Comparison		as 
+Sequential	Timing 	since 
+Comparison		like
+Sequential	Timing 	now 
+Contrastive	concessive	however
+Comparison		more …. than
+Contrastive	concessive	while 
+Additive	reinforcing	then 
+Sequential	Transitionals 	later
+Sequential	Timing 	always 
+Sequential	Timing 	never
+Contrastive	antithetic	although
+Contrastive	antithetic	rather
+Sequential	Transitionals 	until 
+Sequential	Timing 	once
+Additive	reinforcing	as well
+Apposition	exemplification	such as
+Contrastive	replacive	at least
+Contrastive	concessive	though
+Additive	reinforcing	again 
+Consequential	resultative	then 
+Apposition	exemplification	for example 
+Clarification	corroborative	according to
+Additive	reinforcing	too
+Clarification	emphasizing	especially
+Consequential	causative	because of
+Sequential	Timing 	sometimes 
+Sequential	Transitionals 	now 
+Sequential	Transitionals 	following
+Consequential	conditional	whether
+Comparison		as well as
+Apposition	restatement	particularly
+Comparison		less … than
+Sequential	Transitionals 	earlier 
+Contrastive	antithetic	instead
+Consequential	resultative	so 
+Clarification	corroborative	of course 
+Clarification	corroborative	actually
+Clarification	corroborative	in fact
+Additive	equative	whether ...  or
+Clarification	generalization	usually 
+Clarification	emphasizing	certainly
+Sequential	Timing 	recently 
+Clarification	emphasizing	indeed 
+Clarification	emphasizing	the fact that
+Summation		then
+Contrastive	concessive	yet
+Clarification	corroborative	like
+Sequential	Timing 	directly 
+Additive	reinforcing	in addition
+Clarification	generalization	generally 
+Sequential	Timing 	while 
+Contrastive	concessive	only
+Additive	reinforcing	Increasingly
+Consequential	resultative	therefore
+Summation		overall
+Sequential	Timing 	quickly 
+Sequential	Timing 	immediately 
+Contrastive	antithetic	then
+Summation		in all 
+Comparison		also 
+Contrastive	concessive	but
+Apposition	exemplification	for instance 
+Sequential	Transitionals 	soon
+Consequential	resultative	thus
+Additive	reinforcing	much more
+Consequential	conditional	unless
+Contrastive	concessive	except
+Clarification	generalization	largely
+Contrastive	concessive	even though
+Additive	equative	either ...  or
+Consequential	causative	since 
+Comparison		exactly 
+Sequential	Timing 	here
+Consequential	causative	due to 
+Consequential	resultative	otherwise
+Clarification	corroborative	apparently 
+Sequential	ordering	the former
+Clarification	emphasizing	stress
+Consequential	conditional	even if
+Comparison		as if 
+Sequential	ordering	second 
+Sequential	Timing 	currently 
+Apposition	exemplification	to show
+Summation		finally
+Clarification	emphasizing	extremely
+Additive	reinforcing	nor
+Sequential	Timing 	frequently 
+Sequential	Timing 	at the same time 
+Contrastive	replacive	worse
+Contrastive	replacive	again 
+Consequential	resultative	as a result
+Contrastive	antithetic	on the other hand
+Comparison		unlike 
+Clarification	generalization	mostly 
+Sequential	Transitionals 	previously 
+Additive	reinforcing	in particular 
+Apposition	restatement	specifically 
+Clarification	corroborative	you know
+Apposition	restatement	that is
+Sequential	Transitionals 	finally
+Clarification	generalization	essentially
+Clarification	generalization	in general 
+Additive	reinforcing	and also
+Contrastive	concessive	nevertheless 
+Clarification	emphasizing	significantly 
+Additive	equative	not only ... but also
+Clarification	corroborative	unfortunately 
+Clarification	emphasizing	in terms of
+Clarification	emphasizing	considering
+Sequential	Transitionals 	initially
+Sequential	Timing 	rarely
+Additive	reinforcing	further
+Comparison		as much as
+Additive	reinforcing	aside
+Sequential	Timing 	suddenly 
+Additive	equative	neither ... nor
+Sequential	Transitionals 	eventually
+Sequential	Transitionals 	as long as
+Sequential	Transitionals 	slowly
+Contrastive	concessive	whereas
+Sequential	Transitionals 	originally
+Sequential	ordering	the latter
+Apposition	restatement	in other words 
+Comparison		approximately
+Clarification	corroborative	no doubt 
+Clarification	corroborative	as far as
+Clarification	emphasizing	absolutely 
+Summation		thus
+Additive	reinforcing	moreover
+Additive	reinforcing	neither
+Sequential	Timing 	constantly
+Sequential	Timing 	occasionally 
+Apposition	restatement	in this case
+Additive	equative	too
+Consequential	resultative	of course 
+Clarification	corroborative	I believe 
+Clarification	emphasizing	as for
+Comparison		roughly
+Additive	equative	equally
+Consequential	resultative	somehow
+Sequential	Transitionals 	gradually 
+Clarification	corroborative	Clearly
+Sequential	Transitionals 	in the future 
+Clarification	emphasizing	even when
+Clarification	corroborative	depends on
+Consequential	causative	in response
+Clarification	emphasizing	more and more 
+Sequential	Transitionals 	as soon as 
+Clarification	emphasizing	concerning
+Apposition	exemplification	demonstrate
+Sequential	Transitionals 	by the time
+Consequential	conditional	whether or not
+Sequential	Timing 	eventually
+Sequential	Transitionals 	in the end 
+Contrastive	concessive	besides
+Summation		briefly
+Consequential	resultative	hence 
+Apposition	restatement	i.e.
+Sequential	ordering	a)    b)    c)
+Clarification	corroborative	on the basis of 
+Contrastive	concessive	in fact
+Clarification	corroborative	you see
+Clarification	corroborative	I mean 
+Sequential	Transitionals 	repeatedly
+Sequential		therefore
+Sequential	ordering	third
+Clarification	emphasizing	be sure
+Sequential	Transitionals 	meanwhile 
+Additive	reinforcing	furthermore
+Summation		altogether
+Clarification	corroborative	Seemingly
+Contrastive	antithetic	in contrast
+Additive	reinforcing	apart from
+Sequential	ordering	two
+Sequential	Timing 	simultaneously 
+Contrastive	concessive	versus
+Comparison		similarly 
+Sequential	Transitionals 	at this point 
+Sequential	Transitionals 	subsequently
+Clarification	corroborative	inevitably
+Apposition	restatement	indeed 
+Sequential	Timing 	usually 
+Sequential	Timing 	the first time
+Contrastive	concessive	actually
+Clarification	corroborative	I see
+Additive	reinforcing	and/or
+Contrastive	antithetic	as opposed to
+Clarification	emphasizing	after all
+Comparison		same as
+Consequential	resultative	leading to
+Sequential	ordering	one
+Contrastive	antithetic	Ironically
+Sequential	ordering	in the first place
+Comparison		as though 
+Sequential	Transitionals 	formerly 
+Comparison		equally
+Clarification	emphasizing	surely 
+Apposition	exemplification	alike
+Contrastive	concessive	nonetheless
+Apposition	restatement	namely
+Apposition	restatement	thus
+Consequential	resultative	consequently 
+Summation		in short
+Contrastive	concessive	at the same time 
+Clarification	emphasizing	undoubtedly 
+Apposition	exemplification	e.g.
+Clarification	corroborative	Evidently
+Sequential	ordering	next
+Comparison		in relation to 
+Additive	equative	in this way
+Sequential	Transitionals 	till
+Consequential	conditional	only if 
+Clarification	emphasizing	emphasize 
+Summation		conclude
+Consequential	resultative	accordingly
+Contrastive	antithetic	by contrast
+Contrastive	antithetic	on the one hand
+Consequential	conditional	in case
+Clarification	emphasizing	as a result
+Clarification	generalization	with respect to
+Additive	equative	likewise 
+Additive	reinforcing	beside 
+Consequential	causative	given that
+Clarification	emphasizing	probability
+Sequential	Timing 	temporarily 
+Consequential	resultative	with regard to
+Contrastive	concessive	after all
+Sequential	Timing 	meanwhile 
+Sequential	Timing 	seldom
+Sequential	emphasizing	all right
+Comparison		matching 
+Sequential	Transitionals 	soon after
+Sequential	Timing 	so far as 
+Contrastive	antithetic	albeit
+Clarification	emphasizing	highlight
+Sequential	Timing 	not at all
+Sequential	Transitionals 	in the meantime 
+Consequential	conditional	what if
+Sequential	ordering	secondly 
+Sequential	ordering	three
+Consequential	resultative	As a consequence
+Clarification	corroborative	in any case
+Clarification	corroborative	Unusually
+Clarification	corroborative	by no means
+Sequential	ordering	first of all
+Clarification	generalization	to some extent 
+Sequential	ordering	i) ii) iii)
+Clarification	corroborative	in reality
+Additive	reinforcing	above all
+Sequential	Transitionals 	by now 
+Sequential	Transitionals 	for the first time
+Sequential	Transitionals 	by the way 
+Additive	equative	in the same way
+Sequential	Timing 	generally 
+Sequential	Timing 	at present 
+Additive	equative	similarly 
+Consequential	resultative	resulting in
+Sequential	Transitionals 	from time to time
+Additive	equative	either
+Clarification	generalization	in most cases
+Consequential	conditional	so long as
+Clarification	corroborative	frankly
+Clarification	emphasizing	foremost
+Sequential	Timing 	instantly 
+Additive	reinforcing	more
+Sequential	Transitionals 	later on
+Clarification	corroborative	honestly
+Clarification	corroborative	I suppose 
+Consequential	resultative	bring about
+Sequential	Transitionals 	last
+Contrastive	antithetic	in comparison
+Additive	reinforcing	additionally 
+Contrastive	antithetic	Unexpectedly
+Clarification	emphasizing	more importantly
+Sequential	Timing 	often 
+Clarification	emphasizing	just
+Apposition	exemplification	as an example
+Sequential	Transitionals 	ultimately
+Sequential	ordering	to begin with
+Clarification	generalization	on the whole
+Clarification	corroborative	Strangely
+Clarification	corroborative	Ostensibly
+Sequential	Transitionals 	as yet
+Contrastive	antithetic	conversely
+Clarification	corroborative	Oddly
+Clarification	corroborative	Plainly
+Sequential	ordering	first 
+Sequential	Transitionals 	periodically 
+Sequential	Transitionals 	incidentally
+Sequential	Timing 	most of the time
+Clarification	emphasizing	the most significant 
+Consequential	resultative	resulting from
+Consequential	causative	resulting from
+Contrastive	antithetic	on the contrary
+Consequential	resultative	in that case 
+Sequential	Timing 	presently 
+Contrastive	concessive	admittedly
+Additive	reinforcing	minus
+Consequential	resultative	for this reason
+Contrastive	antithetic	Paradoxically
+Contrastive	antithetic	in place of
+Sequential	ordering	for one thing 
+Apposition	exemplification	another example
+Comparison		parallel to
+Contrastive	antithetic	by comparison
+Clarification	corroborative	in my opinion
+Clarification	corroborative	well
+Clarification	corroborative	by and large 
+Additive	reinforcing	or else
+Consequential	resultative	in doing so
+Contrastive	concessive	in any event
+Clarification	corroborative	preferably
+Contrastive	concessive	else
+Contrastive	concessive	that said 
+Consequential	resultative	in this respect
+Sequential	Transitionals 	beforehand
+Clarification	generalization	to some degree
+Consequential	causative	arising from
+Consequential	resultative	lest 
+Clarification	emphasizing	most of all
+Clarification	corroborative	To be honest
+Additive	reinforcing	alternatively 
+Contrastive	concessive	whilst
+Sequential	ordering	afterward
+Clarification	emphasizing	moreover
+Sequential	Transitionals 	sooner or later
+Sequential	ordering	to start with
+Contrastive	concessive	then again
+Contrastive	antithetic	notwithstanding 
+Consequential	conditional	provided that
+Comparison		resembling 
+Clarification	corroborative	surely 
+Sequential	ordering	thereafter
+Contrastive	concessive	notwithstanding 
+Clarification	corroborative	that is to say
+Sequential	Timing 	now and then
+Sequential	Transitionals 	hitherto
+Contrastive	concessive	anyway
+Clarification	emphasizing	insofar
+Clarification	generalization	one way or another
+Clarification	emphasizing	in truth
+Sequential	Transitionals 	lastly
+Clarification	emphasizing	chiefly
+Clarification	corroborative	ideally
+Contrastive	concessive	all the same 
+Contrastive	reformulatory	more accurately 
+Clarification	corroborative	at any rate
+Sequential	Timing 	but this time
+Apposition	restatement	support that
+Sequential	Timing 	nowadays
+Sequential	Transitionals 	after a while 
+Clarification	emphasizing	above all
+Clarification	corroborative	generally speaking
+Clarification	corroborative	Quite simply
+Comparison		Concurrently
+Sequential	Transitionals 	during this time
+Consequential	resultative	for this purpose 
+Clarification	emphasizing	unquestionably
+Sequential	Timing 	one at a time
+Clarification	emphasizing	furthermore
+Clarification	generalization	one aspect of
+Sequential	Timing 	the amount of time
+Sequential	ordering	firstly 
+Clarification	generalization	as a rule
+Sequential	ordering	thirdly 
+Clarification	corroborative	as a matter of fact
+Summation		all in all
+Sequential	Transitionals 	from now on
+Additive	reinforcing	what is more 
+Sequential	Timing 	infrequently 
+Clarification	corroborative	in either case 
+Clarification	emphasizing	without question
+Clarification	corroborative	by any means
+Sequential	Timing 	all the while 
+Additive	equative	just in case
+Comparison		in much the same way
+Clarification	generalization	all manner of
+Sequential	Timing 	at the present time
+Clarification	corroborative	Oddly enough
+Comparison		in the same way
+Clarification	emphasizing	With reference to
+Contrastive	concessive	for all that
+Consequential	resultative	on account of 
+Contrastive	concessive	in any case
+Summation		 sum up
+Summation		summarize
+Sequential	Timing 	at the right time
+Clarification	corroborative	as it happens
+Sequential	Transitionals 	meantime 
+Clarification	corroborative	I assume 
+Summation		in a word
+Comparison		circa
+Additive	equative	by the same token 
+Clarification	corroborative	theoretically
+Clarification	generalization	above all
+Sequential	Transitionals 	not long ago 
+Sequential	Timing 	there was a time
+Additive	equative	correspondingly 
+Clarification	emphasizing	of note
+Consequential	resultative	to this end
+Sequential	Timing 	conclude 
+Sequential	Transitionals 	aforementioned
+Sequential	Transitionals 	up to now 
+Summation		in summary
+Apposition	restatement	which is to say
+Clarification	corroborative	Outwardly
+Consequential	resultative	henceforth
+Summation		in conclusion
+Sequential	Timing 	the length of time
+Sequential	Timing 	All at once 
+Apposition	restatement	more precisely
+Additive	reinforcing	on top of that
+Clarification	emphasizing	Without doubt
+Clarification	emphasizing	in the manner of
+Clarification	corroborative	OK
+Clarification	emphasizing	basically 
+Sequential	ordering	hereafter
+Summation		in sum
+Sequential	Timing 	at any given time
+Consequential	resultative	giving rise to
+Additive	reinforcing	plus
+Consequential	resultative	whereupon
+Clarification	corroborative	to tell the truth
+Contrastive	concessive	anyhow
+Clarification	emphasizing	inasmuch
+Additive	reinforcing	furthering
+Sequential	ordering	As a starting point
+Sequential	Transitionals 	the following week
+Comparison		as distinct from
+Consequential	resultative	in consequence 
+Sequential	Timing 	time and time again
+Sequential	Timing 	without exception
+Clarification	corroborative	strictly speaking
+Consequential	conditional	in the event that 
+Consequential	causative	as a response to
+Sequential	emphasizing	mind you
+Clarification	emphasizing	add to that
+Clarification	emphasizing	above all else
+Clarification	emphasizing	of great importance
+Consequential	resultative	under the circumstances 
+Consequential	resultative	in a nutshell
+Clarification	corroborative	it is evident that
+Consequential	causative	arising out of
+Sequential	Transitionals 	for the last time
+Contrastive	concessive	vs.
+Clarification	emphasizing	most important of all
+Clarification	corroborative	I am afraid 
+Apposition	restatement	without a doubt
+Contrastive	reformulatory	alternatively 
+Sequential	Transitionals 	just then
+Contrastive	concessive	despite that 
+Sequential	ordering	shortly
+Sequential	Transitionals 	little by little
+Clarification	emphasizing	culminate
+Sequential	Timing 	all of the time 
+Clarification	generalization	broadly speaking 
+Clarification	generalization	chiefly
+Consequential	resultative	on this basis 
+Clarification	emphasizing	by all means 
+Contrastive	replacive	alternatively 
+Sequential	emphasizing	alright
+Sequential	Transitionals 	prior to this
+Clarification	generalization	take note of
+Apposition	restatement	put it another way
+Apposition	exemplification	for one thing 
+Sequential	Timing 	now and again
+Consequential	resultative	with this in mind
+Additive	reinforcing	piece by piece
+Contrastive	reformulatory	more precisely 
+Sequential	Transitionals 	for long periods of time
+Clarification	generalization	up until now
+Clarification	emphasizing	the climax of 
+Sequential	Timing 	some of the time
+Consequential	resultative	forthwith
+Apposition	restatement	be exact 
+Comparison		ca.
+Clarification	emphasizing	of particular importance
+Clarification	corroborative	Put simply
+Comparison		identically
+Sequential	Timing 	at any other time
+Clarification	emphasizing	in as much as
+Clarification	emphasizing	of paramount importance
+Consequential	causative	one consequence of
+Consequential	causative	one result of
+Sequential	Timing 	with the passage of time
+Clarification	corroborative	in every aspect
+Clarification	corroborative	academically
+Summation		resume
+Apposition	exemplification	the following example
+Clarification	corroborative	supposedly
+Apposition	restatement	viz
+Sequential	Timing 	at the time of writing
+Clarification	generalization	with all due respect
+Clarification	corroborative	Okay
+Clarification	corroborative	it is noteworthy that
+Apposition	restatement	put it mildly
+Clarification	emphasizing	as a matter of fact
+Sequential	Timing 	in the same time 
+Sequential	Transitionals 	after a time
+Clarification	generalization	In neither case
+Clarification	emphasizing	of great value
+Apposition	exemplification	as illustrated by
+Clarification	emphasizing	of critical importance
+Apposition	restatement	that is to say
+Comparison		Incongruously
+Clarification	corroborative	it is inevitable that
+Consequential	resultative	apropos
+Apposition	exemplification	As an illustration of
+Clarification	corroborative	roughly speaking
+Sequential	Transitionals 	time to move on
+Clarification	corroborative	To be frank
+Clarification	emphasizing	of crucial importance
+Consequential	resultative	As a corollary
+Clarification	emphasizing	of little value
+Sequential	ordering	in the second place 
+Apposition	exemplification	to illustrate 
+Clarification	emphasizing	of no consequence
+Sequential	Transitionals 	in a very short time
+Consequential	causative	one effect of
+Clarification	corroborative	oh
+Clarification	corroborative	tentatively
+Contrastive	concessive	at any rate
+Apposition	restatement	put it bluntly
+Clarification	generalization	with particular reference to
+Clarification	emphasizing	of considerable importance
+Apposition	exemplification	as revealed by
+Clarification	emphasizing	regarding
+Clarification	emphasizing	of fundamental importance
+Clarification	emphasizing	of prime importance
+Clarification	corroborative	hypothetically
+Clarification	emphasizing	of limited value
+Clarification	corroborative	to be truthful
+Clarification	corroborative	practically speaking
+Additive	reinforcing	 top it off
+Contrastive	replacive	rather better
+Sequential	Transitionals 	as of yet
+Clarification	corroborative	in actual fact 
+Contrastive	antithetic	by way of contrast
+Apposition	exemplification	the example above
+Sequential	Timing 	It was at this time
+Sequential	Transitionals 	henceforward 
+Clarification	corroborative	technically speaking
+Sequential	ordering	second of all
+Comparison		a different aspect
+Sequential	Timing 	and all the time
+Apposition	restatement	what I mean is 
+Sequential	Transitionals 	henceforth
+Clarification	corroborative	it is evident from
+Clarification	corroborative	what I am saying is 
+Contrastive	concessive	in spite of that 
+Sequential	Timing 	for much of the time
+Clarification	emphasizing	bar none
+Sequential	ordering	for another thing
+Clarification	emphasizing	in such a manner as
+Sequential	Transitionals 	in the fullness of time
+Sequential	Timing 	to top it all
+Apposition	exemplification	the example below
+Contrastive	antithetic	by way of comparison
+Additive	equative	just one aspect
+Contrastive	antithetic	oppositely
+Sequential	Transitionals 	in a year’s time
+Contrastive	concessive	another distinction
+Additive	reinforcing	 cap it
+Clarification	corroborative	as I was saying
+Apposition	exemplification	a rare example of
+Sequential	Timing 	it is about time
+Clarification	corroborative	comparatively speaking
+Apposition	exemplification	the previous example
+Clarification	emphasizing	of little significance
+Clarification	emphasizing	of primary concern
+Sequential	Transitionals 	after a short time 
+Sequential	Transitionals 	last of all
+Clarification	emphasizing	of some value
+Clarification	emphasizing	the main issue is 
+Contrastive	concessive	as a matter of fact
+Clarification	emphasizing	the major point
+Contrastive	antithetic	contrariwise
+Additive	reinforcing	aside from this
+Additive	reinforcing	not…either 
+Consequential	causative	owing to the fact that
+Clarification	emphasizing	of real value
+Additive	equative	in just this way 
+Contrastive	antithetic	a striking difference
+Additive	reinforcing	on top of it all
+Clarification	emphasizing	of equal weight
+Clarification	emphasizing	as to
+Sequential	Transitionals 	afore
+Comparison		separate and distinct from
+Comparison		as distinct as
+Consequential	resultative	in such an event 
+Clarification	emphasizing	of strategic importance
+Clarification	emphasizing	of considerable significance
+Clarification	generalization	the preferred mode of
+Clarification	emphasizing	of profound importance
+Additive	reinforcing	another interesting aspect
+Consequential	resultative	thereby
+Clarification	emphasizing	of overriding importance
+Consequential	resultative	Whereby
+Clarification	emphasizing	of major interest
+Clarification	emphasizing	the most necessary
+Clarification	emphasizing	of most value
+Apposition	exemplification	a notable example of
+Clarification	emphasizing	the chief characteristics 
+Clarification	emphasizing	of doubtful value
+Consequential	resultative	arising out of this 
+Summation		 get back to the point
+Sequential	Transitionals 	by the by
+Clarification	emphasizing	of less significance
+Clarification	generalization	the principal characteristics
+Sequential	Transitionals 	as a final point
+Clarification	generalization	one particular feature
+Clarification	corroborative	it is an undeniable fact that
+Clarification	generalization	the most worrying aspect
+Clarification	generalization	without a shadow of doubt
+Additive	reinforcing	 crown it all
+Sequential	Transitionals 	in a fortnight’s time
