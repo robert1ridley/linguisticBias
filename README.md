@@ -2,6 +2,8 @@
 
 This is the code and data used to produce the results from the EMNLP 2023 paper *Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain* [paper link to come].
 
+## Requirements
+
 The results from the paper are produced with python 3.6. We suggest creating your own environment. Packages required are as follows:\
 – `spacy`\
 – `claucy`\
@@ -10,6 +12,8 @@ The results from the paper are produced with python 3.6. We suggest creating you
 – `nltk`\
 – `scipy`\
 – `matplotlib`
+
+## Running the project
 
 To run the code in this project:\
 – `git clone https://github.com/robert1ridley/linguisticBias.git` \
