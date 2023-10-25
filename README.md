@@ -1,6 +1,6 @@
 # Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain
 
-This is the code and data used to produce the results from the EMNLP 2023 paper *Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain* [paper link to come].
+This is the code and data used to produce the results from the *EMNLP 2023* paper *Addressing Linguistic Bias through a Contrastive Analysis of Academic Writing in the NLP Domain*.
 
 ## Requirements
 
